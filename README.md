@@ -38,4 +38,4 @@ Este proyecto muestra de forma educativa cómo un atacante podría detectar e in
 ## 👨‍💻 Autor
 
 **Luis García** – Técnico en Ciberseguridad | Red Team Jr  
-🔗 [LinkedIn](https://www.linkedin.com/in/tu_usuario)
+🔗 [LinkedIn](https://www.linkedin.com/in/luis-garc%C3%ADa-8138762b6/)
